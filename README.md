@@ -6,3 +6,5 @@ Then you go to prefs a then enable continuous playback. Its good to have playbac
 Then you click Open. Navigate to your Download folder. Commonly its Downloads then go to the folder you downloaded from here and select AFK-Fishing.rec.
 
 When you're done with that go to fishing mini-game stand next to the water and press "Control+Shift+Alt+P" on your keyboard to tur the macro on. To turn it off just do the same hotkey.
+
+(You better get some of Tresure hunter enchants)
